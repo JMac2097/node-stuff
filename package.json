@@ -1,0 +1,25 @@
+{
+  "name": "node-attempt-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMac2097/node-stuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMac2097/node-stuff/issues"
+  },
+  "homepage": "https://github.com/JMac2097/node-stuff#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "instagram-node": "^0.5.8"
+  }
+}
